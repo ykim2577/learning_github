@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\learninggithub"
+		},
+		{
+			"path": "..\\..\\Documents\\GitHub\\naver-part1"
+		},
+		{
+			"path": "..\\..\\Downloads\\naver-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "naver-part1"
+	}
+}
